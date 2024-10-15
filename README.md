@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Java language 
 - 💞️ I’m looking to collaborate on beginer friendly projects that uses AWS or Azure 
 - 📫 reach me fahimfahadullah@outlook.com
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am addicted to games. I love art and architecture.  
 
 <!---
