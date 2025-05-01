@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @fahadullahfahim
-- 👀 I’m interested in Machine Learning and Cloud computing
-- 🌱 I’m currently learning Java language 
-- 💞️ I’m looking to collaborate on beginer friendly projects that uses AWS or Azure 
-- 📫 reach me fahimfahadullah@outlook.com
-- ⚡ Fun fact: I am addicted to games. I love art and architecture.  
+- 👀 I’m interested in Machine Learning, Cloud computing and cyber security
+- Currently trying to make writing notes in Obsidian a habit
+- 📫 reach me fahimfahadullah@gmail.com
+- ⚡ Fun fact: I love art and architecture.  
 
 <!---
 fahadullahfahim/fahadullahfahim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
