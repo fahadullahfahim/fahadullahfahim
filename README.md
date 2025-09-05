@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fahadullahfahim
+- 👋 Hi, I’m Md Fahadullah Fahim
 - 👀 I’m interested in Machine Learning, Cloud computing and cyber security
-- Currently trying to make writing notes in Obsidian a habit
+- I love writing notes in markdown using Obsidian 
 - 📫 reach me fahimfahadullah@gmail.com
 - ⚡ Fun fact: I love art and architecture.  
 
